@@ -9,7 +9,7 @@ import MediaQuery from 'react-responsive';
 export default class Root extends React.Component {
 
     render() {
-        return (
+        return ( 
             <div>
                 <MediaQuery query="(min-device-width:1224px)">
                     <PCIndex />

@@ -16,6 +16,7 @@
     "babel-preset-react": "^6.24.1",
     "babelify": "^7.3.0",
     "css-loader": "^0.28.1",
+    "fetch": "^1.1.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-mixin": "^2.0.2",
