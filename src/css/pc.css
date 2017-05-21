@@ -14,3 +14,67 @@
 .footer{
     text-align: center;
 }
+.register{
+    float: right !important;
+}
+.ant-menu-horizontal>.ant-menu-item>a,.ant-menu-horizontal>.ant-menu-submenu>a{
+    display: inline-block !important;
+}
+
+#container{
+    text-align: center !important;
+}
+.container{
+    padding-top: 10px;
+    margin-top: 5px;
+    text-align: center;
+}
+.leftContainer{
+    width:400px;
+    float:left;
+}
+.carousel{
+    width:400px;
+    float:left;
+}
+.carousel img {
+    width:400px;
+    height: 280px;
+}
+
+.ant-card{
+    margin-top:5px !important;
+}
+.ant-card-head-title{
+    text-align:left !important;
+}
+.ant-card-body{
+    text-align: left !important;
+}
+.usercenter {
+    float: right !important;
+}
+
+.topNewsList{
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.topNewsList a {
+    line-height: 22px !important;
+    color: #666 !important;
+}
+.tabs_news {
+    padding-left: 10px;
+    width: 460px;
+    float: left;
+}
+.tabs_product {
+    width: 300px;
+    padding-left: 10px;
+    float: left;
+}
+
+
+

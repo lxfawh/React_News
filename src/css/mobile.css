@@ -18,3 +18,12 @@ html{
     padding-left: 10px;
     color:#2db7f5;
 }
+
+#mobileheader i{
+    font-size: .5rem;
+    float:right;
+    margin-top: .3rem;
+    margin-right: .3rem;
+    color:#2db7f5;
+
+}
